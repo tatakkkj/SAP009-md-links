@@ -37,9 +37,10 @@ Acrescenta à listagem anterior o respectivo status https de cada link, indicand
 ## 4. Ferramentas utilizadas
 <div align="center">
 
-<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/c21830be-b8a0-44a5-b6ad-add843a6121c" alt="HTML5" style="height: 30px;"/> 
-<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/9f79a361-7d87-48f0-bd72-e2ec77a2d350" alt="HTML5" style="height: 30px;"/> 
-<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/f923161b-4461-45a3-bd03-b142f6f82ea2" alt="HTML5" style="height: 30px;"/> 
-<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/5a7f1cd3-5656-4d18-8a90-09f4aa116c63" alt="GitHub" style="height: 30px;"/>
+<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/c21830be-b8a0-44a5-b6ad-add843a6121c" style="height: 30px;"/> 
+<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/9f79a361-7d87-48f0-bd72-e2ec77a2d350" style="height: 30px;"/> 
+<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/f923161b-4461-45a3-bd03-b142f6f82ea2" style="height: 30px;"/> 
+<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/5a7f1cd3-5656-4d18-8a90-09f4aa116c63" style="height: 30px;"/>
+<img src="https://github.com/tatakkkj/SAP009-md-links/assets/120331438/584b489d-9871-4e5b-9261-f569b5ca765c" style="height: 30px;"/>
 
   </div> 
